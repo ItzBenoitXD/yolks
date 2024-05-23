@@ -42,4 +42,3 @@ jobs:
           push: true
           tags: |
             ghcr.io/itzbenoitxd/yolks:dotnet_${{ matrix.tag }}
-            ghcr.io/itzbenoitxd/yolks:dotnet_${{ matrix.tag }}

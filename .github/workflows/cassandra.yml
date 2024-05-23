@@ -36,4 +36,3 @@ jobs:
           push: true
           tags: |
             ghcr.io/itzbenoitxd/yolks:cassandra_${{ matrix.tag }}
-            ghcr.io/itzbenoitxd/yolks:cassandra_${{ matrix.tag }}

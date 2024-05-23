@@ -38,4 +38,3 @@ jobs:
           push: true
           tags: |
             ghcr.io/itzbenoitxd/yolks:${{ matrix.oses }}
-            ghcr.io/itzbenoitxd/yolks:${{ matrix.oses }}

@@ -38,4 +38,3 @@ jobs:
           push: true
           tags: |
             ghcr.io/itzbenoitxd/installers:${{ matrix.tag }}
-            ghcr.io/itzbenoitxd/installers:${{ matrix.tag }}
