@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/itzbenoitxd/steamcmd:${{ matrix.distro }}
-            ghcr.io/parkervcp/steamcmd:${{ matrix.distro }}
+            ghcr.io/itzbenoitxd/steamcmd:${{ matrix.distro }}

@@ -39,4 +39,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/itzbenoitxd/yolks:redis_${{ matrix.tag }}
-            ghcr.io/parkervcp/yolks:redis_${{ matrix.tag }}
+            ghcr.io/itzbenoitxd/yolks:redis_${{ matrix.tag }}

@@ -44,4 +44,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/itzbenoitxd/yolks:java_${{ matrix.tag }}
-            ghcr.io/parkervcp/yolks:java_${{ matrix.tag }}
+            ghcr.io/itzbenoitxd/yolks:java_${{ matrix.tag }}
