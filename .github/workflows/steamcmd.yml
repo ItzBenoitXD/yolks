@@ -39,5 +39,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/ItzBenoitXD/steamcmd:${{ matrix.distro }}
+            ghcr.io/itzbenoitxd/steamcmd:${{ matrix.distro }}
             ghcr.io/parkervcp/steamcmd:${{ matrix.distro }}

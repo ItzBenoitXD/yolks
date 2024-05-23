@@ -35,5 +35,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/ItzBenoitXD/yolks:cassandra_${{ matrix.tag }}
+            ghcr.io/itzbenoitxd/yolks:cassandra_${{ matrix.tag }}
             ghcr.io/parkervcp/yolks:cassandra_${{ matrix.tag }}

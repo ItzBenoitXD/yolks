@@ -42,5 +42,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/ItzBenoitXD/yolks:go_${{ matrix.tag }}
+            ghcr.io/itzbenoitxd/yolks:go_${{ matrix.tag }}
             ghcr.io/parkervcp/yolks:go_${{ matrix.tag }}
