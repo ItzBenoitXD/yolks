@@ -195,8 +195,6 @@ is tagged correctly.
     * `ghcr.io/ItzBenoitXD/yolks:mariadb_11.2`
   * [`MariaDB 11.3`](/mariadb/11.3)
     * `ghcr.io/ItzBenoitXD/yolks:mariadb_11.3`
-  * [`MariaDB 11.4`](/mariadb/11.4)
-    * `ghcr.io/ItzBenoitXD/yolks:mariadb_11.4`
 
 ### [MongoDB](/mongodb)
 
